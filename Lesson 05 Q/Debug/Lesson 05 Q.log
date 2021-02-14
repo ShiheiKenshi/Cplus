@@ -1,0 +1,3 @@
+﻿  Lesson 05 Q6.cpp
+C:\Users\Admin\Documents\C\Lesson 05\Lesson 05 Q\Lesson 05 Q6.cpp(70,19): warning C4305: 'initializing': truncation from 'bool (__cdecl *)(int *,int)' to 'bool'
+  Lesson 05 Q.vcxproj -> C:\Users\Admin\Documents\C\Lesson 05\Lesson 05 Q\Debug\Lesson 05 Q.exe

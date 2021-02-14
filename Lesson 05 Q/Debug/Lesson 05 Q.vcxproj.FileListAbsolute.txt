@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\C\Lesson 05\Lesson 05 Q\Debug\Lesson 05 Q.exe
+C:\Users\Admin\Documents\C\Lesson 05\Lesson 05 Q\Debug\Lesson 05 Q.pdb
