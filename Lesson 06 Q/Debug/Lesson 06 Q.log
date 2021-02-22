@@ -1,0 +1,5 @@
+﻿  Lesson 06 Q.cpp
+C:\Users\Admin\Documents\Lesson 06\Lesson 06 Q\Lesson 06 Q\Lesson 06 Q.cpp(52,16): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Admin\Documents\Lesson 06\Lesson 06 Q\Lesson 06 Q\Lesson 06 Q.cpp(64,18): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Admin\Documents\Lesson 06\Lesson 06 Q\Lesson 06 Q\Lesson 06 Q.cpp(90,14): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Lesson 06 Q.vcxproj -> C:\Users\Admin\Documents\Lesson 06\Lesson 06 Q\Lesson 06 Q\Debug\Lesson 06 Q.exe
