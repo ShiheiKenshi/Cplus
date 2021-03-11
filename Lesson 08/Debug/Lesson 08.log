@@ -1,0 +1,5 @@
+﻿  Lesson 08.cpp
+C:\Users\Admin\Documents\Lesson 08\Lesson 08.cpp(267,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Lesson 08\Lesson 08.cpp(268,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Lesson 08\Lesson 08.cpp(302,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lesson 08.vcxproj -> C:\Users\Admin\Documents\Lesson 08\Debug\Lesson 08.exe
